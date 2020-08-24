@@ -1,33 +1,25 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `The Okezie Blog`,
+    name: `TheOkezieBlog`,
+    siteUrl: `https://write.okezie.dev`,
+    description: `Latest insights into the Tech and Math world and the various tools available to use in development and problem solving`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `The Okezie Blog, read on my discoveries while learning and building things.`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/okezieuc`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/okeziechiedozie`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://linkedin.com/in/okezie-chiedozie-a8aa9a177`,
       },
     ],
   },
@@ -48,8 +40,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `The Okezie Blog`,
+        short_name: `TheOkezieBlog`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
