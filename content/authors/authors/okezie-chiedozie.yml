@@ -1,12 +1,10 @@
 name: Okezie Chiedozie
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  I am an adventurous student that writes code and solve Maths.
+  I also know a lot about design and software.
 avatar: ./avatars/dennis-brotzky.jpg
 social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+  - url: https://instagram.com/okeziechiedozie
+  - url: https://github.com/okezieuc
+  - url: https://okezie.dev
 featured: true
