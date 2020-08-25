@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `The Okezie Blog`,
-    name: `TheOkezieBlog`,
+    name: `The Okezie Blog`,
     siteUrl: `https://write.okezie.dev`,
     description: `Latest insights into the Tech and Math world and the various tools available to use in development and problem solving`,
     hero: {
