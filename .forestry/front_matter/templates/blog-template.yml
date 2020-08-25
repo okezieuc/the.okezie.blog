@@ -21,4 +21,5 @@ fields:
   label: hero
   description: The cover image for the blog post
 pages:
+- content/posts/2020-07-04-six-degrees-of-separation/six-degrees-of-separation-are-we-are-a-global-village.md
 - content/posts/2020-08-22-my-sample-post/the-reason-to-use-gatsby.md
