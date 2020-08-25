@@ -11,7 +11,7 @@ hero: ''
 
 Olympiads are contests/examinations targeted toward high school students. Olympiads test student’s knowledge outside the regular school curriculum or rather how they are able to apply basic principles taught in school to solve more advanced problems.
 
-![](../images/vlcsnap-2020-05-01-08h53m24s527.png)
+![](/images/vlcsnap-2020-05-01-08h53m24s527.png)
 
 ## What subjects are tested in Olympiads?
 
