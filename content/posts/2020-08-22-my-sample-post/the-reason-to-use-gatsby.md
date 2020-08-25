@@ -9,8 +9,6 @@ hero: "./images/photo.png"
 ---
 Ayoo
 
-![](./images/background.jpg)
-
 look up to see the photo
 
 <div class="Image__Medium"> <img src="./images/photo.png" alt="alt text for medium image" /> </div>
