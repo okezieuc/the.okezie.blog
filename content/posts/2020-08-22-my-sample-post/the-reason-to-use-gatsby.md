@@ -8,3 +8,7 @@ hero: "/static/2020-01-01-my-first-post-using-novela-by-narative/images/article-
 
 ---
 Ayoo
+
+![](/static/vlcsnap-2020-05-01-08h53m24s527.png)
+
+look up to see the photo
