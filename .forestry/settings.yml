@@ -9,7 +9,7 @@ sections:
   label: Authors
   create: documents
   match: "**/*.yml"
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
