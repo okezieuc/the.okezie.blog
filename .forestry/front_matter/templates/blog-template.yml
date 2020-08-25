@@ -17,3 +17,5 @@ fields:
 - type: file
   name: hero
   label: hero
+pages:
+- content/posts/2020-08-22-my-sample-post/the-reason-to-use-gatsby.md
