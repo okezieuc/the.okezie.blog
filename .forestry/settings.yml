@@ -9,7 +9,7 @@ sections:
   label: Blog Posts
   create: all
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: app
 - type: directory
   path: content/authors/authors
   label: Authors
