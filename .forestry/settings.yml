@@ -16,7 +16,7 @@ sections:
   create: documents
   match: "**/*.yml"
   new_doc_ext: yml
-upload_dir: content/posts
+upload_dir: content/posts/*
 public_path: "/static"
 front_matter_path: ''
 use_front_matter_path: false
