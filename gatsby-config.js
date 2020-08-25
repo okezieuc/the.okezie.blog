@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://write.okezie.dev`,
     description: `Latest insights into the Tech and Math world and the various tools available to use in development and problem solving`,
     hero: {
-      heading: `The Okezie Blog, read on my discoveries while learning and building things.`,
+      heading: `We do three things: Learn, Build, Repeat!`,
       maxWidth: 652,
     },
     social: [
