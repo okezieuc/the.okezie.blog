@@ -4,7 +4,7 @@ author: Okezie Chiedozie
 date: 2020-08-25T23:00:00Z
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
-hero: "./2020-08-22-my-sample-post/images/photo.png"
+hero: "./images/photo.png"
 
 ---
 Ayoo
