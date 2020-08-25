@@ -9,7 +9,7 @@ hero: "./images/photo.png"
 ---
 Ayoo
 
-![](/static/vlcsnap-2020-05-01-08h53m24s527.png)
+![](./images/background.jpg)
 
 look up to see the photo
 
