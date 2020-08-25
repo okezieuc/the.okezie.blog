@@ -14,8 +14,11 @@ fields:
 - type: text
   name: excerpt
   label: excerpt
-- type: file
-  name: hero
+- name: hero
+  type: text
+  config:
+    required: false
   label: hero
+  description: The cover image
 pages:
 - content/posts/2020-08-22-my-sample-post/the-reason-to-use-gatsby.md
