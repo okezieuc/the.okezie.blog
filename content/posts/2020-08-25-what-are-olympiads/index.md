@@ -4,14 +4,12 @@ author: Okezie Chiedozie
 date: 2020-06-25
 excerpt: In this post I explain what olympiads are and I give answers to some of the
   frequently asked questions about olympiads.
-hero: ''
+hero: "../images/what-are-olympiad-exams-cover-min.jpg"
 
 ---
 ## What are Olympiads?
 
 Olympiads are contests/examinations targeted toward high school students. Olympiads test student’s knowledge outside the regular school curriculum or rather how they are able to apply basic principles taught in school to solve more advanced problems.
-
-![](../images/vlcsnap-2020-05-01-08h53m24s527.png)
 
 ## What subjects are tested in Olympiads?
 
