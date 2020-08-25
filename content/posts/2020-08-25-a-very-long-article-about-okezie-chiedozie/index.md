@@ -3,7 +3,7 @@ title: A very long article about Okezie Chiedozie
 author: Okezie Chiedozie
 date: '2020-06-23'
 excerpt: >-
-  An article that tries to answer the question "Who is Okezie?" and also
+  An article that attempts to answer the question "Who is Okezie?" and also
   explains what I do and learn.
 hero: images/a-very-long-article-about-okezie.png
 ---
