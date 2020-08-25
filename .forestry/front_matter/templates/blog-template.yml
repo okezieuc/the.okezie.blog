@@ -15,10 +15,10 @@ fields:
   name: excerpt
   label: excerpt
 - name: hero
-  type: text
+  type: file
   config:
-    required: false
+    maxSize: 64
   label: hero
-  description: The cover image
+  description: The cover image for the blog post
 pages:
 - content/posts/2020-08-22-my-sample-post/the-reason-to-use-gatsby.md
