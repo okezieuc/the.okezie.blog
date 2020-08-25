@@ -9,7 +9,9 @@ hero: ''
 ---
 ## What are Olympiads?
 
-Olympiads are contests/examinations targeted toward high school students. Olympiads test student’s knowledge outside the regular school curriculum or how they are able to apply basic principles taught in school to solve more advanced problems.
+Olympiads are contests/examinations targeted toward high school students. Olympiads test student’s knowledge outside the regular school curriculum or rather how they are able to apply basic principles taught in school to solve more advanced problems.
+
+![](../images/vlcsnap-2020-05-01-08h53m24s527.png)
 
 ## What subjects are tested in Olympiads?
 
@@ -45,5 +47,5 @@ While reading these books, you will also like to take a look at previous questio
 
 Today we have learnt about what olympiads are, the subjects that they are available in some basic things you can do to succeed. I will subsequently be writing about other helpful topics like books that can help you to improve. I will also write about other sources that will be helpful to your Olympiad journey.
 
-From Okezie Chiedozie\
+From Okezie Chiedozie  
 Happy Olympiading
