@@ -49,4 +49,10 @@ SEO is a very crucial part of running a website because it is the thing that wil
 
 The most important part of the whole AMP story making stuff is publishing the content you made because then is when the content goes live. On Ampstor, you can export your code to HTML and download, publish to a webflow or upload it to your own servers via FTP or host it with Ampstor on their website. 
 
-On MakeStories, you can export the story to a zip file that can then be moved to the servers it will be hosted from, you can also send your stories via FTP to where they will be served from. MakeStories can also host your stories for you if you don't have your won hosting on an onl.st shortlink.
+On MakeStories, you can export the story to a zip file that can then be moved to the servers it will be hosted from, you can also send your stories via FTP to where they will be served from. MakeStories can also host your stories for you if you don't have your won hosting on an onl.st shortlink. There are many more options on MakeStories like widget emped, Wordpress and AWS Publish.
+
+## Final Verdict
+
+MakeStories beats Ampstor in majority of the factors considered most especially site responsiveness and ease of use, which ii consider very important. However Ampstor beats MakeStories on the most important factor to me which is the ammount of templates that are available so I will say that if you plan on creating just one or two stories MakeStories will be perfect for you but if you plan on creating a lot, then you have a big decision before you - to choose a large number of very good themes(Ampstor) or to choose an easier to use but less diverse in templates (MakeStories)
+
+If you feel like you want to have more control over what the pages you make look like, then you can create your own template. I creates a detailed introduction to writeing code for AMP soties
