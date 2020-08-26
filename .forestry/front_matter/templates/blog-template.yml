@@ -20,6 +20,11 @@ fields:
     maxSize: 64
   label: hero
   description: The cover image for the blog post
+- name: secret
+  type: boolean
+  label: Secret
+  description: Stops it from getting published on the feed on the hompage
+  default: false
 pages:
 - content/posts/2020-07-04-six-degrees-of-separation/six-degrees-of-separation-are-we-are-a-global-village.md
 - content/posts/How Webpages Work/how-webpages-work.md
