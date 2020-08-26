@@ -34,3 +34,19 @@ Having more templates helps make each of your stories have a unique look, it mak
 ## Site Responsiveness and ease of use
 
 After using both the editors, I can in terms of performnce and ease of use, MakeStories is a lot better than that of Ampstor. The Ampstor page has very minor lags that you will easily percieve while using it, so you may have to wait for some milliseconds after typing to see what you typed appear. Meanwhile on MakeStories, evrything is fluid, and the site responds to clicks quickly. In MakeStories, you can organize your stories in different folders, so iff you are planning on creating a lot of stories and want your workplace to be organized, the MakeStories has exactly what you need. In Ampstor, you can give tags to stories, and using tags can help you stay organized but folders are a lot easier to work with as we are already used to them.
+
+## Media Availability
+
+Since photos are a huge part of AMP stories, availability of photos on each of these platforms is very important to successful content creation. Both of the websites make use of the Unsplash API to fetch images so finding photos wont be a problem. They also both have import functionality so in case you can't find what you need from the image search on their website, you can upload you own images and use them instead. MakeStories has an edge here as it makes it possible to search for videos and illustrations too so you are not limited to only images.
+
+AMP stories support backgroud music and both websites have the ability to import sounds which is very good, although not too many people add audio to their stories
+
+## SEO Optimization
+
+SEO is a very crucial part of running a website because it is the thing that will get people to come to your site. MakeStories has a better way of allowing you to add SEO metadata to your stories. In the settings of MakeStories, you can set the author name, publisher favicon and add your analytics info there and all that metadata will automatically be added to the stories that you make. On Ampstor, there is no such setting as you have to go individually and add the relevant SEO and analytics data to your website.
+
+## Story Publishing
+
+The most important part of the whole AMP story making stuff is publishing the content you made because then is when the content goes live. On Ampstor, you can export your code to HTML and download, publish to a webflow or upload it to your own servers via FTP or host it with Ampstor on their website. 
+
+On MakeStories, you can export the story to a zip file that can then be moved to the servers it will be hosted from, you can also send your stories via FTP to where they will be served from. MakeStories can also host your stories for you if you don't have your won hosting on an onl.st shortlink.
