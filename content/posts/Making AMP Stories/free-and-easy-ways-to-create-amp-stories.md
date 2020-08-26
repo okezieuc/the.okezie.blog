@@ -21,34 +21,16 @@ There are two paths I suggest you have to choose between while creating your AMP
 1. Creating your own templates and writing code for them
 2. Using a WYSIWYG editor
 
-### Creating your own templates and writing code for the
+If you want to make your own original templates, you can refer to this very helpful article I made to guide you to start making AMP stories.
 
-When I started off with creating my AMP story website, I decided to create my own templates.
+WYSIWYG is an acronym for What-You-See-is-What-You-Get. If you decide to make your own templates, you will be writing many lines of code but WYSIWYG editors make the process easier by providing you a visual interface to create your stories. When you use these editors, all you have to do is to write text and place images and you will be done.
 
-I first of all created sketches of designs I wanted different parts of my pages to look like. I divided the templaye designs into different categores
+Today we'll be comparing two AMP story makers that I am very familiar with - Ampstor and MakeStories. On both websites, they make it very clear to the end users that the editor is truly visual and there is zero coding required. The two websites are in beta stage but they work perfectly and there is little to worry about.
 
-* The cover pages
-* The pages containing just a very large bold text
-* Pages that have text together with a smaller sized descriptin
-* Pages that have just small text
-* The closing pages
-* Page containing just an image
+## Number of available templates
 
-#### Structure of the code on an AMP story
+Having more templates helps make each of your stories have a unique look, it makes every story you make to stand out on it's own and not look like a recycled version of another story. If the stories you are planning to make are about a product, I feel like MakeStories will be a good option for you. If you stories are geared away from a product then Ampstor will be the good choice for you. If we count the number of templates that are available in the two platforms, the number of templates on Ampstor is a lot larger than that of MakeStories.
 
-The main portion of the code is wrapped in an `<amp-story>`  element
+## Site Responsiveness and ease of use
 
-```html
-<amp-story standalone
-	title="Title goes here"
-    publisher="Publisher goes here"
-    poster-potrait-src="../path/to/cover">
-    ...
-</amp-story>
-```
-
-\`
-
-The parameters given here are a self-explanatory. You put the title of the story in place of `Title goes here` and similarly the name of the publisher. AMP stories are given special postitions in search results in some locations so the image that `poster-potrait-src` points to will be the thumbnail that will be displayed on the search results.
-
-The AMP
+After using both the editors, I can in terms of performnce and ease of use, MakeStories is a lot better than that of Ampstor. The Ampstor page has very minor lags that you will easily percieve while using it, so you may have to wait for some milliseconds after typing to see what you typed appear. Meanwhile on MakeStories, evrything is fluid, and the site responds to clicks quickly. In MakeStories, you can organize your stories in different folders, so iff you are planning on creating a lot of stories and want your workplace to be organized, the MakeStories has exactly what you need. In Ampstor, you can give tags to stories, and using tags can help you stay organized but folders are a lot easier to work with as we are already used to them.
