@@ -14,22 +14,38 @@ AMP stories are part of Google's AMP project that enables supported search resul
 
 AMP stories are AMP pages that are visually rich and are typically displayed as full screen images with text overlayed on it.  These stories work in a way that is similar to the stories found on social networks. The reader can then tap through the slides of the story by tapping on the edges of the screen.
 
+## Why you should care about AMP
+
+Most traffic a website recieves comes from being seen on Google search results, so the higher you rank on search results, the mpre traffic that you expect on your site. As part of a way of encouraging people to create AMP pages, google gave pages that use AMP a special placement at the top of AMP results.\[^footnote\]
+
+![Placement of AMP Stories on search results](../images/how-amp-stories-look-on-google-search.jpg "How AMP Stories look on search results")
+
+They also reinforce the guidelines on the way you make your AMP stories by only including pages that satisfy them to be included in the top carousel/visual stories section. This means that, a very important thing to do after creating your story is to pass it through an AMP validator to make sure there are no errors in the markup that may prevent it from getting a place in the search results.
+
 ## Two ways of going about creating AMP Stories
 
-There are two paths I suggest you have to choose between while creating your AMP stories.
+There are two divergent paths I suggest you have to choose between while creating your AMP stories.
 
 1. Creating your own templates and writing code for them
 2. Using a WYSIWYG editor
 
-If you want to make your own original templates, you can refer to this very helpful article I made to guide you to start making AMP stories.
+In this article, we will only be looking at WYSIWYG editors
 
 WYSIWYG is an acronym for What-You-See-is-What-You-Get. If you decide to make your own templates, you will be writing many lines of code but WYSIWYG editors make the process easier by providing you a visual interface to create your stories. When you use these editors, all you have to do is to write text and place images and you will be done.
 
-Today we'll be comparing two AMP story makers that I am very familiar with - Ampstor and MakeStories. On both websites, they make it very clear to the end users that the editor is truly visual and there is zero coding required. The two websites are in beta stage but they work perfectly and there is little to worry about.
+Today we'll be comparing two AMP story makers that I am very familiar with - Ampstor and MakeStories. Both websites make it very clear on their website that the editor is truly visual and there is zero coding required to create your AMP story. Both websites are in beta stage but they have worked perfectly for me so far, except for a few bugs, and there is little or nothing to worry about.
+
+In comparing the two editors, we will look at some factors that you should definitely put into consideration in deciding which editor you want to work with
+
+1. The number of already made templates that they offer to you
+2. How easy it is to use the site and whether to expect lags
+3. The tools that they have put in place to make it easier to search for media content that you will use
+4. How straightforward or easy it is to add your SEO metadata to the stories that you make
+5. The different options that you are offered on how to publish your story when you are done building them.
 
 ## Number of available templates
 
-Having more templates helps make each of your stories have a unique look, it makes every story you make to stand out on it's own and not look like a recycled version of another story. If the stories you are planning to make are about a product, I feel like MakeStories will be a good option for you. If you stories are geared away from a product then Ampstor will be the good choice for you. If we count the number of templates that are available in the two platforms, the number of templates on Ampstor is a lot larger than that of MakeStories.
+An editor having more templates helps make each of your stories you publish stand out and have a unique look and not look like a recycled version of another story that you already made. If the stories you are planning to make are about a product, I feel like MakeStories will be a good option for you because they have a handful of templates that will be perfect for you to pitch your product to your potentianl customers. If you stories are geared away from a product  or you are planning to create a very huge number of stories, then Ampstor will be the good choice for you. If we count the number of templates that are available in the two platforms, the number of templates on Ampstor is very much larger than that of MakeStories.
 
 <div className="Image__Medium"> <img src="../images/ampstor-editing-interface.jpg" title="Ampstor Editing Interface" alt="Ampstor Editing Interface" /> </div>
 
@@ -41,22 +57,33 @@ After using both the editors, I can in terms of performnce and ease of use, Make
 
 ## Media Availability
 
-Since photos are a huge part of AMP stories, availability of photos on each of these platforms is very important to successful content creation. Both of the websites make use of the Unsplash API to fetch images so finding photos wont be a problem. They also both have import functionality so in case you can't find what you need from the image search on their website, you can upload you own images and use them instead. MakeStories has an edge here as it makes it possible to search for videos and illustrations too so you are not limited to only images.
-
-AMP stories support backgroud music and both websites have the ability to import sounds which is very good, although not too many people add audio to their stories
+Photos are a huge part of AMP stories as that is almost what AMP Stories are all about. Availability of high quality photos on each of these platforms is very important to successful content creation. Both of the websites make use of the Unsplash API to fetch images so finding photos wont be a problem. Unsplash is an online media library that boasts over 2 million photos so you will likely fins an image for whatever you are looking for from the search. In the unlikely event that you can't find an image, they also both have  an import functionality so you can download your images from elsewhere and import them into your story. You are not only limited to images on AMP stories so you can make use of videos and background music. MakeStories has an edge based on this beacause they provide you different menus from which you can either pick a photo, an illustration, or a video from online sources. This is a functionality I am yet to see on Ampstor(or I have not noticed it yet).
 
 ## SEO Optimization
 
-SEO is a very crucial part of running a website because it is the thing that will get people to come to your site. MakeStories has a better way of allowing you to add SEO metadata to your stories. In the settings of MakeStories, you can set the author name, publisher favicon and add your analytics info there and all that metadata will automatically be added to the stories that you make. On Ampstor, there is no such setting as you have to go individually and add the relevant SEO and analytics data to your website.
+SEO is a heart of running a website because it is the thing that will get people to come to your site. For AMP Stories, the SEO metadata needed is mostly thename of the author, publisher and then cover images that will be displayed on the Google visual storis carousel. MakeStories has a better way of allowing you to add SEO metadata to your stories. In the settings of MakeStories, you can set the author name, publisher favicon and add your analytics info there and all that metadata will automatically be added to the stories that you make. On Ampstor, there is no such setting as you have to go individually and add the relevant SEO and analytics data to your story.
 
 ## Story Publishing
 
-The most important part of the whole AMP story making stuff is publishing the content you made because then is when the content goes live. On Ampstor, you can export your code to HTML and download, publish to a webflow or upload it to your own servers via FTP or host it with Ampstor on their website.
+The most important part of the whole AMP story making stuff is publishing the content you made because then is when the content goes live. On Ampstor, you have four options on how to publish you story. You can export your code to HTML and put the HTML on your website, upload it to your own servers via FTP, publish it to a webflow or host it with Ampstor on their website.
 
-On MakeStories, you can export the story to a zip file that can then be moved to the servers it will be hosted from, you can also send your stories via FTP to where they will be served from. MakeStories can also host your stories for you if you don't have your won hosting on an onl.st shortlink. There are many more options on MakeStories like widget emped, Wordpress and AWS Publish.
+On MakeStories, you can export the story to a zip file or send your stories via FTP to location where they will be served from. MakeStories can also host your stories for you on an onl.st shortlink if you don't have your own hosting. There are other options on MakeStories like widget embed, Wordpress and AWS Publish.
 
 ## Final Verdict
 
-MakeStories beats Ampstor in majority of the factors considered most especially site responsiveness and ease of use, which ii consider very important. However Ampstor beats MakeStories on the most important factor to me which is the ammount of templates that are available so I will say that if you plan on creating just one or two stories MakeStories will be perfect for you but if you plan on creating a lot, then you have a big decision before you - to choose a large number of very good themes(Ampstor) or to choose the one that is easier to use but less diverse in templates (MakeStories)
+MakeStories beats Ampstor in majority of the factors considered especially site responsiveness and ease of use, which I consider important because no one prefers slow things. However Ampstor beats MakeStories on the greatest criteria to me which is the ammount of templates that are available so I will say that if you plan on creating just not too many stories MakeStories will be the perfect for you but if you plan on creating a lot, then should be in a big dillems - to choose a large number of very good themes(Ampstor) or to choose the one that is easier to use but less diverse in templates (MakeStories), but I hope the descriptions I made here will be sufficient for you to make your choice. You can also decide to work with both of them simultaneously to take advantage of the speed of one and the ammount of templates the other has to offer.
 
-If you feel like you want to have more control over what the pages you make look like, then you can create your own template. I creates a detailed introduction to writeing code for AMP soties
+Another good AMP Story creator that I have not described here is Tappable. They are also in a private beta stage so you can register to get an access code.
+
+### Links to the various websites
+
+All the various services here offer the service for free as at the time of writing.
+
+1. [Ampstor]()
+2. [MakeStories](https://makestories.io/ "MakeStories website")
+3. [Tappable.co](tappable.co "Tappable AMP Story Creator")
+4. [AMP official website](https://amp.dev/about/stories/ "AMP official website")
+
+***
+
+If you want to have more control over how the stories you make look like, then you can create your own template but there will be a lot of coding involved. I will create a detailed introduction to writing code for AMP stories so you should better watch out for it.
