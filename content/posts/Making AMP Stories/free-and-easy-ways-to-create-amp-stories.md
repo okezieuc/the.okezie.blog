@@ -5,7 +5,7 @@ date: 2020-08-27T11:00:00.000+00:00
 excerpt: AMP stories are the new thing but creating them may be daunting at first.
   Here are some tools that will enable you build your stories faster than ever.
 hero: "../images/free-and-easy-ways-to-create-amp-stories-cover.png"
-secret: true
+secret: false
 
 ---
 ## What are AMP Stories
