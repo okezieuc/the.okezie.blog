@@ -1,13 +1,13 @@
 ---
 title: Free and easy ways to create AMP Stories
+date: 2020-08-27 11:00:00 Z
 author: Okezie Chiedozie
-date: 2020-08-27T11:00:00.000+00:00
 excerpt: AMP stories are the new thing but creating them may be daunting at first.
   Here are some tools that will enable you build your stories faster than ever.
 hero: "../images/free-and-easy-ways-to-create-amp-stories-cover.png"
 secret: false
-
 ---
+
 ## What are AMP Stories
 
 AMP stories are part of Google's AMP project that enables supported search results  from google to open as quickly as possible. This is due to the strict restrictions to what scripts or style the website can contain as there are particular scripts that AMP pages work with. Next time when you open a google search result and you see the thunderbolt sign on the url bar, you are on an AMP page
