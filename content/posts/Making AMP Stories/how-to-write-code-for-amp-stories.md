@@ -1,12 +1,12 @@
 ---
 title: How to write code for AMP Stories
-date: 2020-08-27 11:00:00 Z
 author: Okezie Chiedozie
+date: 2020-08-27T11:00:00Z
 excerpt: ''
 hero: ''
 secret: true
----
 
+---
 ## What are AMP Stories
 
 AMP stories are part of Google's AMP project that enables supported search results  from google to open as quickly as possible. This is due to the strict restrictions to what scripts or style the website can contain as there are particular scripts that AMP pages work with. Next time when you open a google search result and you see the thunderbolt sign on the url bar, you are on an AMP page

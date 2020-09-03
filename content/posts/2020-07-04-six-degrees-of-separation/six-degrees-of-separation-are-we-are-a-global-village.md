@@ -1,12 +1,12 @@
 ---
 title: Six degrees of separation – are we are a global village?
-date: 2020-07-04 17:40:00 Z
 author: Okezie Chiedozie
+date: 2020-07-04T17:40:00Z
 excerpt: It is not very uncommon to hear that ‘The world is a global village’. The
   theory considers how interlinked people are, considering chains of friendships.
 hero: "../images/six-degrees-of-separation.png"
----
 
+---
 Six Degrees of separation theory explains how close we are to each other. The phrase “The world is a global village” is now very common as we have a lot more things that connect us today more than a hundred years back. The internet is bringing us closer to each other than ever before and slowly we realize that we are really becoming a global village.
 
 ## The Meaning of Six Degrees of Separation

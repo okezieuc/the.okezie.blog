@@ -1,12 +1,12 @@
 ---
 title: How Webpages Work
-date: 2020-07-07 23:00:00 Z
 author: Okezie Chiedozie
+date: 2020-07-07T23:00:00.000+00:00
 excerpt: We look at the different technologies and programming languages used to make
   webpages.
 hero: "../images/how-webpages-work-cover.jpg"
----
 
+---
 When you open a website, a connection is made to a server and the server in return sends some files back to your browser. Your browser then uses this files to construct what you see on your computer. Today, I will be discussing the three major files that are required to display webpages.
 
 ## HTML
