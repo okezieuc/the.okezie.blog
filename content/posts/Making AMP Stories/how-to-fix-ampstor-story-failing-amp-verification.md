@@ -1,13 +1,13 @@
 ---
 title: Two simple steps to fix Ampstor Story Failing AMP validation
-date: 2020-09-01 23:00:00 Z
 author: Okezie Chiedozie
+date: 2020-09-02T00:00:00+01:00
 excerpt: Did you finish making a story on Ampstor, but your story failed AMP validation,
   this article is for you. Learn the reason for the error and how to fix it.
-hero: ''
-secret: true
----
+hero: "../images/computer-on-desk-amp-story-making.jpg"
+secret: false
 
+---
 Ampstor is no doubt a very great site to create your AMP Stories. In fact I created most of the stories on [one of my sites](https://stories.okezie.dev "Stories by Okezie") with Ampstor, and Ampstor made it really easy for me to be able to create stories quickly, thanks to the intuitive interface and in-built availability of [Unsplash](https://unsplash.com "Unsplash - Beautiful Images and pictures") images.
 
 > I created most of the stories on [one of my sites](https://stories.okezie.dev "Stories by Okezie") with Ampstor, and Ampstor made it really easy for me to be able to create stories
