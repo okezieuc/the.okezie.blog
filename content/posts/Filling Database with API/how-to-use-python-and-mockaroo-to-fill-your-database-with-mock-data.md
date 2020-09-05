@@ -12,7 +12,7 @@ Almost every application has a database location somewhere in the stack.  When d
 
 But they cannot do anything if there is an empty database, so someone has to fill in the database. You can decide to start filling in the database manually, but that is going to take a lot of energy, creativity and of course time. This is when we need to think of a better way of populating our table.
 
-Today we will be populating a user table for a social media app that doesn't exist.
+Today we will be populating a user table for a social media app that doesn't exist. The
 
 > A way of populating our table will be to get a collection of sample data, and somehow have that data sent to our Database
 
